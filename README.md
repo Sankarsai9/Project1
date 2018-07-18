@@ -1,2 +1,2 @@
 # Project1
-Practice 
+This is a practice project 
